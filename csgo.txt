@@ -1,0 +1,11 @@
+1.参数
+【打开】net_graph 1   
+【缩小显示】net_graphproportionalfont 0.5
+【居中显示】net_graphpos 02
+【左对齐显示】net_graphpos 0
+【右对齐显示】net_graphpos 1
+【关闭】net_graph 0
+
+
+2.血迹
+bind "f" "+lookatweapon; r_cleardecals"
